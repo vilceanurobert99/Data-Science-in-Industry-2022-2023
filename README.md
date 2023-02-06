@@ -8,9 +8,9 @@ Report for data science in industry project.
 1) Install python 3.10 and required dependencies. There is no requirement file defined yet,
 but simply installing latest (default) versions for mentioned packages will work just fine.
 
-pip install pandas
-pip install numpy
-pip install customtkinter
+* pip install pandas
+* pip install numpy
+* pip install customtkinter
 
 2) Clone git: https://github.com/vilceanurobert99/Data-Science-in-Industry-2022-2023.git
 
